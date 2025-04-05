@@ -1,0 +1,375 @@
+Age,Alcohol/Smoking Addiction,BMI Category,Blood Pressure,Daily Steps,Gender,Heart Rate,Occupation,Person ID,Physical Activity Level,Quality of Sleep,Screen Time,Screen Time (before Sleep),Sleep Disorder,Sleep Duration,Sleep Quality,Sleep Walking,Stress Level
+56,No,Normal,143/84,4200,Male,77,Software Engineer,1,42,6,3.0,0,Restless Leg Syndrome,6.1,6.0,No,6
+46,No,Normal,112/67,10000,Male,75,Doctor,2,60,6,5.0,1,CRSD,6.2,3.0,No,8
+32,No,Normal,110/71,10000,Male,75,Doctor,3,60,6,2.0,4,None,6.2,8.0,No,4
+60,No,Obese,140/90,3000,Male,85,Sales Representative,4,30,4,3.0,1,Sleep Apnea,3.0,4.0,No,7
+25,No,Normal,148/80,3000,Male,85,Sales Representative,5,30,4,3.0,1,Restless Leg Syndrome,5.9,6.0,No,8
+38,No,Normal,119/72,3000,Male,85,Software Engineer,6,30,4,2.0,1,None,5.9,7.0,No,3
+56,No,Obese,140/90,3500,Male,82,Teacher,7,40,6,2.0,5,Parasomnia,6.3,5.0,Yes,8
+36,Yes,Overweight,124/92,8000,Male,70,Doctor,8,75,7,2.0,1,Insomnia,7.8,5.0,No,6
+40,Yes,Overweight,115/90,8000,Male,70,Doctor,9,75,7,2.0,2,Insomnia,7.8,5.0,No,6
+28,No,Normal,115/79,8000,Male,70,Doctor,10,75,7,3.0,0,None,7.8,8.0,No,3
+28,No,Normal,149/81,8000,Male,70,Doctor,11,30,6,2.0,3,Restless Leg Syndrome,6.1,7.0,No,8
+41,No,Normal,120/80,8000,Male,70,Doctor,12,75,7,2.0,1,Sleep Apnea,4.0,5.0,No,8
+53,No,Normal,111/64,8000,Male,70,Doctor,13,30,6,4.0,4,CRSD,6.1,3.0,No,8
+57,No,Normal,120/80,8000,Male,70,Doctor,14,30,6,2.0,1,Sleep Apnea,4.0,4.0,No,8
+41,No,Normal,111/77,8000,Male,70,Doctor,15,30,6,3.0,4,None,6.0,8.0,No,4
+20,No,Normal,120/80,8000,Male,70,Student,16,30,6,2.0,2,Parasomnia,6.0,4.0,Yes,7
+39,No,Normal Weight,132/87,4000,Female,80,Nurse,17,40,5,3.0,4,Parasomnia,6.5,5.0,Yes,8
+19,No,Normal,117/71,8000,Male,70,Student,18,30,6,3.0,3,None,6.0,8.0,No,4
+41,No,Normal,111/79,4000,Female,80,Nurse,19,40,5,3.0,0,None,6.5,8.0,No,4
+47,No,Normal,143/87,8000,Male,70,Doctor,20,75,7,2.0,4,Restless Leg Syndrome,7.6,7.0,No,6
+55,No,Normal,113/75,8000,Male,70,Doctor,21,75,7,2.0,4,None,7.7,8.0,No,3
+19,No,Normal,119/70,8000,Male,70,Student,22,75,7,3.0,0,None,7.7,7.0,No,4
+38,No,Normal,116/68,8000,Male,70,Doctor,23,75,7,4.0,3,CRSD,7.7,4.0,No,6
+50,No,Normal,112/72,8000,Male,70,Doctor,24,75,7,3.0,1,None,7.7,8.0,No,3
+29,No,Normal,120/80,8000,Male,70,Doctor,25,75,7,3.0,4,Parasomnia,7.8,5.0,Yes,7
+39,No,Normal,120/80,8000,Male,70,Doctor,26,75,7,3.0,0,Parasomnia,7.9,4.0,Yes,8
+42,No,Normal,115/73,8000,Male,70,Doctor,27,75,7,2.0,2,None,7.8,8.0,No,3
+44,No,Normal,119/70,8000,Male,70,Doctor,28,75,7,5.0,0,CRSD,7.9,3.0,No,6
+59,No,Normal,119/78,8000,Male,70,Doctor,29,75,7,2.0,2,None,7.9,8.0,No,4
+45,No,Normal,120/80,8000,Male,70,Doctor,30,75,7,3.0,3,Parasomnia,7.9,5.0,Yes,8
+33,No,Normal Weight,130/86,4100,Female,78,Nurse,31,35,5,2.0,1,Parasomnia,6.4,4.0,Yes,8
+32,No,Normal,115/72,4100,Female,78,Nurse,32,35,5,3.0,0,None,6.4,7.0,No,4
+20,No,Normal,114/71,6800,Female,69,Student,33,75,8,3.0,5,None,7.9,8.0,No,3
+54,No,Normal,119/74,5000,Male,72,Doctor,34,30,6,3.0,4,None,6.1,7.0,No,3
+24,No,Normal,112/72,8000,Male,70,Doctor,35,75,7,2.0,3,None,7.7,8.0,No,3
+38,No,Normal,117/77,5000,Male,72,Doctor,36,30,6,3.0,0,None,6.1,8.0,No,3
+26,No,Normal,116/74,5000,Male,72,Doctor,37,30,6,2.0,4,None,6.1,7.0,No,4
+56,No,Normal,117/68,8000,Male,70,Doctor,38,75,7,4.0,0,CRSD,7.6,4.0,No,6
+35,No,Normal,116/73,8000,Male,70,Doctor,39,75,7,2.0,2,None,7.6,8.0,No,4
+21,No,Normal,148/87,8000,Male,70,Student,40,75,7,2.0,0,Restless Leg Syndrome,7.6,7.0,No,6
+42,No,Normal,146/88,8000,Male,70,Doctor,41,75,7,2.0,5,Restless Leg Syndrome,7.7,6.0,No,6
+31,No,Normal,118/62,8000,Male,70,Doctor,42,75,7,5.0,0,CRSD,7.7,4.0,No,6
+26,Yes,Overweight,115/86,8000,Male,70,Doctor,43,75,7,2.0,0,Insomnia,7.7,4.0,No,6
+43,No,Normal,116/79,8000,Male,70,Doctor,44,75,7,2.0,5,None,7.8,7.0,No,4
+19,No,Normal,120/80,8000,Male,70,Student,45,75,7,2.0,3,Sleep Apnea,3.0,4.0,No,8
+37,No,Normal,120/80,8000,Male,70,Doctor,46,75,7,3.0,0,Sleep Apnea,3.0,5.0,No,9
+45,No,Normal,114/75,8000,Male,70,Doctor,47,75,7,2.0,5,None,7.7,8.0,No,4
+24,No,Normal,113/72,8000,Male,70,Doctor,48,75,7,2.0,4,None,7.8,8.0,No,4
+25,Yes,Overweight,121/88,8000,Male,70,Doctor,49,75,7,3.0,2,Insomnia,7.7,5.0,No,6
+52,No,Normal,114/74,8000,Male,70,Doctor,50,75,7,2.0,2,None,7.7,8.0,No,4
+31,No,Normal,114/72,8000,Male,70,Engineer,51,45,8,3.0,0,None,7.5,7.0,No,4
+34,No,Normal,111/71,8000,Male,70,Engineer,52,45,8,3.0,3,None,7.5,8.0,No,3
+53,No,Normal,117/75,5000,Male,72,Doctor,53,30,6,2.0,3,None,6.0,8.0,No,3
+57,No,Normal,118/62,8000,Male,70,Doctor,54,75,7,4.0,4,CRSD,7.6,4.0,No,6
+21,No,Normal,125/80,5000,Male,72,Student,55,30,6,2.0,0,Sleep Apnea,4.0,5.0,No,9
+19,No,Normal,125/80,5000,Male,72,Student,56,30,6,3.0,2,Parasomnia,6.0,4.0,Yes,8
+23,No,Normal,120/80,8000,Male,70,Doctor,57,75,7,2.0,3,Sleep Apnea,4.0,4.0,No,8
+59,No,Normal,119/74,5000,Male,72,Doctor,58,30,6,3.0,0,None,6.0,8.0,No,3
+21,No,Normal,115/63,5000,Male,72,Student,59,30,6,4.0,3,CRSD,6.0,3.0,No,8
+46,No,Normal,112/73,8000,Male,70,Doctor,60,75,7,2.0,5,None,7.7,7.0,No,3
+35,No,Normal,142/85,5000,Male,72,Doctor,61,30,6,2.0,3,Restless Leg Syndrome,6.0,6.0,No,8
+43,No,Normal,115/68,5000,Male,72,Doctor,62,30,6,4.0,2,CRSD,6.0,3.0,No,8
+51,Yes,Overweight,123/91,5000,Male,72,Doctor,63,30,6,3.0,1,Insomnia,6.2,4.0,No,8
+27,No,Normal,117/74,5000,Male,72,Doctor,64,30,6,3.0,4,None,6.2,8.0,No,3
+53,No,Normal,119/70,5000,Male,72,Doctor,65,30,6,2.0,4,None,6.2,7.0,No,3
+31,No,Normal,115/77,5000,Male,72,Doctor,66,30,6,2.0,2,None,6.2,7.0,No,3
+48,No,Normal,111/72,7000,Male,68,Accountant,67,50,8,2.0,3,None,7.2,8.0,No,3
+32,No,Normal,125/80,5000,Male,72,Doctor,68,30,6,3.0,0,Sleep Apnea,4.0,5.0,No,7
+25,No,Overweight,118/60,5500,Female,76,Scientist,69,50,6,5.0,3,CRSD,6.2,4.0,No,6
+31,No,Normal,113/75,5500,Female,76,Scientist,70,50,6,3.0,2,None,6.2,8.0,No,3
+40,No,Normal,125/80,5000,Male,72,Doctor,71,30,6,2.0,4,Sleep Apnea,3.0,4.0,No,8
+57,Yes,Overweight,117/93,5000,Male,72,Doctor,72,30,6,3.0,3,Insomnia,6.1,5.0,No,8
+38,No,Normal,125/80,5000,Male,72,Doctor,73,30,6,3.0,4,Parasomnia,6.1,5.0,Yes,8
+33,Yes,Overweight,117/86,5000,Male,72,Doctor,74,30,6,2.0,0,Insomnia,6.1,5.0,No,8
+35,No,Normal,117/77,5000,Male,72,Doctor,75,30,6,3.0,4,None,6.0,8.0,No,4
+41,Yes,Overweight,120/90,5000,Male,72,Doctor,76,30,6,3.0,4,Insomnia,6.0,4.0,No,8
+43,No,Normal,119/79,5000,Male,72,Doctor,77,30,6,2.0,1,None,6.0,8.0,No,3
+42,No,Normal,125/80,5000,Male,72,Doctor,78,30,6,3.0,1,Parasomnia,6.0,4.0,Yes,8
+58,No,Normal,125/80,5000,Male,72,Doctor,79,30,6,3.0,5,Sleep Apnea,3.0,5.0,No,9
+46,No,Normal,119/79,5000,Male,72,Doctor,80,30,6,3.0,1,None,6.0,8.0,No,3
+32,No,Normal,117/76,5200,Female,81,Scientist,81,32,4,2.0,4,None,5.8,7.0,No,4
+18,No,Overweight,114/70,5200,Female,81,Student,82,32,4,5.0,2,CRSD,5.8,3.0,No,8
+42,No,Overweight,128/84,5600,Male,70,Teacher,83,40,7,3.0,4,Parasomnia,6.7,5.0,Yes,7
+24,No,Overweight,116/64,5600,Male,70,Teacher,84,40,7,5.0,2,CRSD,6.7,3.0,No,5
+26,No,Normal Weight,120/80,8000,Male,70,Software Engineer,85,60,8,3.0,2,Parasomnia,7.5,5.0,Yes,8
+41,No,Normal,147/80,7000,Female,68,Accountant,86,60,8,2.0,1,Restless Leg Syndrome,7.2,6.0,No,4
+18,No,Normal,125/80,5000,Male,65,Student,87,60,8,2.0,3,Sleep Apnea,3.0,5.0,No,9
+25,No,Normal,111/78,5000,Male,65,Engineer,88,60,8,3.0,0,None,7.2,7.0,No,3
+41,Yes,Overweight,124/90,5000,Male,65,Engineer,89,60,8,3.0,1,Insomnia,7.3,4.0,No,4
+28,No,Normal,116/79,5000,Male,65,Engineer,90,60,8,3.0,1,None,7.3,7.0,No,4
+34,No,Normal,116/68,5000,Male,65,Engineer,91,60,8,5.0,3,CRSD,7.3,4.0,No,4
+25,Yes,Overweight,121/87,5000,Male,65,Engineer,92,60,8,2.0,0,Insomnia,7.3,4.0,No,4
+52,Yes,Overweight,115/86,8000,Male,70,Software Engineer,93,60,8,2.0,4,Insomnia,7.5,5.0,No,5
+52,Yes,Overweight,122/91,3300,Male,84,Lawyer,94,60,7,2.0,5,Insomnia,7.4,4.0,No,5
+50,No,Normal,118/70,7000,Female,68,Accountant,95,60,8,4.0,5,CRSD,7.2,3.0,No,4
+22,No,Normal,116/78,7000,Female,68,Accountant,96,60,8,3.0,4,None,7.1,8.0,No,3
+59,No,Normal,115/75,7000,Female,68,Accountant,97,60,8,2.0,1,Parasomnia,7.2,5.0,Yes,8
+56,No,Normal,115/79,7000,Female,68,Accountant,98,60,8,2.0,0,None,7.1,8.0,No,4
+58,No,Normal,150/83,7000,Female,68,Teacher,99,60,8,3.0,1,Restless Leg Syndrome,7.1,6.0,No,4
+45,Yes,Overweight,118/88,7000,Female,68,Teacher,100,60,8,3.0,2,Insomnia,7.1,4.0,No,4
+24,No,Normal,115/75,7000,Female,68,Teacher,101,60,8,2.0,1,Sleep Apnea,4.0,5.0,No,8
+26,No,Normal,150/87,7000,Female,68,Teacher,102,60,8,2.0,1,Restless Leg Syndrome,7.2,6.0,No,4
+25,No,Normal,115/77,7000,Female,68,Teacher,103,60,8,2.0,4,None,7.2,7.0,No,3
+29,No,Normal,117/75,4800,Male,74,Teacher,104,35,5,2.0,4,None,6.6,8.0,No,4
+51,No,Normal,145/80,7000,Female,68,Teacher,105,60,8,3.0,4,Restless Leg Syndrome,7.2,6.0,No,4
+50,No,Overweight,129/84,4800,Male,74,Teacher,106,35,5,3.0,5,Parasomnia,6.6,4.0,Yes,8
+40,No,Overweight,115/66,4200,Female,77,Nurse,107,42,6,5.0,2,CRSD,6.1,4.0,No,6
+41,No,Normal Weight,118/69,7000,Male,68,Engineer,108,70,8,5.0,4,CRSD,7.8,4.0,No,4
+54,No,Normal Weight,120/80,7000,Male,68,Engineer,109,70,8,2.0,0,Sleep Apnea,3.0,4.0,No,7
+52,No,Normal,113/74,8000,Male,68,Lawyer,110,60,8,2.0,5,None,7.4,8.0,No,4
+57,No,Normal,145/85,7000,Female,68,Accountant,111,60,8,3.0,3,Restless Leg Syndrome,7.2,7.0,No,4
+39,No,Normal,111/74,8000,Male,68,Lawyer,112,60,8,3.0,0,None,7.4,7.0,No,4
+44,No,Normal,114/61,7000,Female,68,Accountant,113,60,8,4.0,0,CRSD,7.2,3.0,No,4
+52,No,Normal,130/85,8000,Male,68,Lawyer,114,60,8,3.0,4,Parasomnia,7.4,4.0,Yes,8
+18,No,Normal,115/75,7000,Female,68,Student,115,60,8,3.0,3,Parasomnia,7.2,4.0,Yes,8
+52,No,Normal,115/75,7000,Female,68,Accountant,116,60,8,2.0,3,Sleep Apnea,4.0,5.0,No,9
+54,No,Normal,116/74,7000,Female,68,Accountant,117,60,8,3.0,5,None,7.2,7.0,No,3
+31,Yes,Overweight,117/92,7000,Female,68,Accountant,118,60,8,2.0,3,Insomnia,7.2,4.0,No,4
+20,No,Normal,116/77,7000,Female,68,Student,119,60,8,2.0,2,None,7.2,8.0,No,4
+18,Yes,Overweight,123/85,7000,Female,68,Student,120,60,8,3.0,4,Insomnia,7.2,4.0,No,4
+22,No,Normal,110/76,7000,Female,68,Accountant,121,60,8,3.0,3,None,7.2,7.0,No,3
+43,No,Normal,118/78,7000,Female,68,Accountant,122,60,8,3.0,5,None,7.2,7.0,No,4
+31,No,Normal,119/71,7000,Female,68,Accountant,123,60,8,2.0,2,None,7.2,8.0,No,3
+56,No,Normal,149/85,7000,Female,68,Accountant,124,60,8,2.0,1,Restless Leg Syndrome,7.2,7.0,No,4
+44,No,Normal,115/75,7000,Female,68,Accountant,125,60,8,3.0,1,Sleep Apnea,3.0,4.0,No,7
+26,No,Normal,110/79,8000,Female,70,Nurse,126,60,8,3.0,2,None,7.5,7.0,No,3
+32,No,Normal,119/76,8000,Male,68,Lawyer,127,60,8,3.0,5,None,7.3,8.0,No,4
+32,No,Normal,142/86,7000,Female,68,Accountant,128,60,8,2.0,2,Restless Leg Syndrome,7.1,6.0,No,4
+43,No,Normal,130/85,8000,Male,68,Lawyer,129,60,8,3.0,4,Sleep Apnea,4.0,4.0,No,8
+59,No,Normal,130/85,8000,Male,68,Lawyer,130,60,8,2.0,4,Parasomnia,7.3,4.0,Yes,7
+30,No,Normal,119/76,7000,Female,68,Accountant,131,60,8,2.0,1,None,7.1,8.0,No,4
+49,No,Normal,112/78,8000,Male,68,Lawyer,132,60,8,3.0,3,None,7.3,8.0,No,4
+56,No,Normal,130/85,8000,Male,68,Lawyer,133,60,8,2.0,5,Parasomnia,7.3,4.0,Yes,8
+49,No,Normal,115/75,7000,Female,68,Accountant,134,60,8,2.0,1,Sleep Apnea,3.0,5.0,No,9
+21,No,Normal,143/83,8000,Male,68,Student,135,60,8,3.0,3,Restless Leg Syndrome,7.3,7.0,No,5
+47,No,Normal,116/68,8000,Male,68,Lawyer,136,60,8,4.0,3,CRSD,7.3,4.0,No,5
+54,Yes,Overweight,121/93,7000,Female,68,Accountant,137,60,8,2.0,4,Insomnia,7.1,4.0,No,4
+40,No,Normal,148/82,8000,Male,68,Lawyer,138,60,8,3.0,0,Restless Leg Syndrome,7.1,7.0,No,5
+56,No,Normal,148/86,7000,Female,68,Accountant,139,60,8,2.0,0,Restless Leg Syndrome,7.1,6.0,No,4
+32,No,Normal,117/72,8000,Male,68,Lawyer,140,60,8,3.0,2,None,7.1,8.0,No,4
+60,No,Normal,115/75,7000,Female,68,Accountant,141,60,8,3.0,4,Sleep Apnea,4.0,5.0,No,9
+46,No,Normal,130/85,8000,Male,68,Lawyer,142,60,8,2.0,3,Parasomnia,7.1,4.0,Yes,8
+53,No,Normal,110/77,7000,Female,68,Accountant,143,60,8,3.0,5,None,7.1,7.0,No,4
+30,No,Normal,112/63,7000,Female,68,Accountant,144,60,8,5.0,0,CRSD,7.1,4.0,No,4
+49,No,Normal,116/75,8000,Male,68,Lawyer,145,60,8,2.0,3,None,7.1,8.0,No,3
+24,No,Normal,118/71,3300,Female,84,Lawyer,146,60,7,2.0,0,None,7.4,7.0,No,4
+39,No,Normal,112/73,8000,Male,68,Lawyer,147,60,8,3.0,0,None,7.2,8.0,No,4
+45,No,Normal,119/70,4000,Male,80,Engineer,148,40,5,3.0,0,None,6.5,7.0,No,3
+19,No,Normal,112/71,5500,Female,75,Student,149,50,7,2.0,5,None,6.9,7.0,No,4
+59,No,Normal,150/89,7500,Female,67,Accountant,150,80,9,3.0,4,Restless Leg Syndrome,8.0,6.0,No,3
+23,No,Normal Weight,115/78,7500,Female,67,Accountant,151,80,9,3.0,5,Parasomnia,8.0,4.0,Yes,8
+45,No,Normal,150/82,8000,Male,68,Lawyer,152,60,8,2.0,1,Restless Leg Syndrome,7.2,7.0,No,5
+45,No,Normal,110/67,8000,Male,68,Lawyer,153,60,8,5.0,3,CRSD,7.2,3.0,No,5
+37,Yes,Overweight,118/88,8000,Male,68,Lawyer,154,60,8,3.0,4,Insomnia,7.2,5.0,No,5
+47,No,Normal,116/70,8000,Male,68,Lawyer,155,60,8,2.0,4,None,7.2,7.0,No,3
+28,Yes,Overweight,123/89,8000,Male,68,Lawyer,156,60,8,3.0,4,Insomnia,7.2,4.0,No,5
+45,Yes,Overweight,121/93,8000,Male,68,Lawyer,157,60,8,2.0,4,Insomnia,7.2,5.0,No,5
+42,No,Normal,130/85,8000,Male,68,Lawyer,158,60,8,2.0,5,Sleep Apnea,4.0,4.0,No,8
+56,No,Normal,130/85,8000,Male,68,Lawyer,159,60,8,3.0,4,Sleep Apnea,4.0,4.0,No,9
+50,No,Normal,150/82,8000,Male,68,Lawyer,160,60,8,2.0,2,Restless Leg Syndrome,7.2,6.0,No,5
+18,No,Normal,118/72,8000,Male,68,Student,161,60,8,3.0,3,None,7.2,8.0,No,4
+44,No,Normal Weight,116/70,7300,Female,73,Accountant,162,55,8,5.0,4,CRSD,7.2,3.0,No,6
+30,No,Normal,116/75,7300,Female,73,Accountant,163,55,8,3.0,3,None,7.2,7.0,No,4
+58,No,Normal,119/74,8000,Male,68,Lawyer,164,90,8,2.0,2,None,7.9,7.0,No,3
+20,No,Normal,143/85,8000,Male,68,Student,165,90,8,2.0,2,Restless Leg Syndrome,7.9,6.0,No,5
+56,Yes,Overweight,119/92,8000,Male,70,Lawyer,166,90,8,3.0,3,Insomnia,7.6,5.0,No,5
+23,No,Normal,140/82,6200,Male,72,Engineer,167,70,8,3.0,0,Restless Leg Syndrome,7.3,6.0,No,6
+25,No,Overweight,125/82,6000,Male,72,Lawyer,168,55,7,3.0,1,Sleep Apnea,4.0,5.0,No,9
+44,No,Overweight,125/82,6000,Male,72,Lawyer,169,55,7,2.0,0,Parasomnia,7.1,5.0,Yes,8
+26,Yes,Overweight,122/92,8000,Male,70,Lawyer,170,90,8,2.0,0,Insomnia,7.7,5.0,No,5
+54,Yes,Overweight,116/93,8000,Male,70,Lawyer,171,90,8,3.0,5,Insomnia,7.7,5.0,No,5
+50,No,Normal,114/63,8000,Male,70,Lawyer,172,90,8,5.0,0,CRSD,7.7,3.0,No,5
+59,No,Normal,130/85,8000,Male,70,Lawyer,173,90,8,2.0,4,Parasomnia,7.7,4.0,Yes,7
+41,Yes,Overweight,117/93,8000,Male,70,Lawyer,174,90,8,2.0,5,Insomnia,7.7,4.0,No,5
+32,No,Normal,118/71,8000,Male,70,Lawyer,175,90,8,2.0,5,None,7.6,8.0,No,3
+49,No,Normal,113/70,8000,Male,70,Lawyer,176,90,8,2.0,2,None,7.6,8.0,No,3
+49,No,Normal,113/68,8000,Male,70,Lawyer,177,90,8,4.0,0,CRSD,7.6,3.0,No,5
+41,No,Normal,141/84,6000,Male,72,Salesperson,178,45,6,3.0,2,Restless Leg Syndrome,6.5,6.0,No,7
+58,No,Normal,116/62,8000,Male,70,Lawyer,179,90,8,5.0,3,CRSD,7.8,3.0,No,5
+29,No,Normal,116/79,8000,Male,70,Lawyer,180,90,8,3.0,1,None,7.8,7.0,No,3
+56,Yes,Overweight,122/93,8000,Male,70,Lawyer,181,90,8,2.0,5,Insomnia,7.8,4.0,No,5
+19,No,Normal,148/82,8000,Male,70,Student,182,90,8,2.0,3,Restless Leg Syndrome,7.8,7.0,No,5
+20,No,Normal,115/71,8000,Male,70,Student,183,90,8,3.0,3,None,7.8,8.0,No,4
+54,No,Normal,130/85,8000,Male,70,Lawyer,184,90,8,2.0,4,Parasomnia,7.8,4.0,Yes,7
+34,No,Normal,111/76,5000,Female,78,Teacher,185,45,6,2.0,1,None,6.8,8.0,No,3
+19,No,Overweight,130/85,5000,Female,78,Student,186,45,6,3.0,3,Sleep Apnea,3.0,5.0,No,7
+19,No,Normal,147/85,6000,Female,65,Student,187,45,7,3.0,3,Restless Leg Syndrome,6.7,7.0,No,4
+45,No,Normal,144/87,6000,Male,72,Salesperson,188,45,6,2.0,1,Restless Leg Syndrome,6.3,7.0,No,7
+40,No,Normal,114/75,6000,Female,65,Teacher,189,45,7,2.0,1,None,6.7,7.0,No,4
+54,No,Overweight,130/85,6000,Male,72,Salesperson,190,45,6,3.0,3,Sleep Apnea,4.0,4.0,No,7
+49,No,Overweight,135/90,6000,Female,65,Teacher,191,45,7,3.0,1,Parasomnia,6.7,5.0,Yes,8
+50,No,Overweight,130/85,6000,Male,72,Salesperson,192,45,6,3.0,3,Sleep Apnea,4.0,4.0,No,9
+18,No,Normal,149/81,6000,Male,72,Student,193,45,6,3.0,3,Restless Leg Syndrome,6.5,7.0,No,7
+36,No,Normal,110/72,6000,Male,72,Salesperson,194,45,6,3.0,4,None,6.5,8.0,No,3
+19,No,Normal,149/87,6000,Male,72,Student,195,45,6,3.0,0,Restless Leg Syndrome,6.5,6.0,No,7
+43,Yes,Overweight,119/89,6000,Male,72,Salesperson,196,45,6,2.0,3,Insomnia,6.5,4.0,No,7
+49,No,Normal,119/73,6000,Male,72,Salesperson,197,45,6,2.0,2,None,6.5,7.0,No,4
+23,No,Normal,118/79,6000,Male,72,Salesperson,198,45,6,3.0,5,None,6.5,8.0,No,4
+49,Yes,Overweight,122/89,6000,Male,72,Salesperson,199,45,6,3.0,0,Insomnia,6.5,4.0,No,7
+21,No,Normal,117/79,6000,Male,72,Student,200,45,6,2.0,0,None,6.5,7.0,No,3
+28,No,Normal,118/74,6000,Male,72,Salesperson,201,45,6,2.0,0,None,6.5,8.0,No,4
+34,No,Normal,113/74,8000,Male,70,Engineer,202,90,8,2.0,4,None,7.8,7.0,No,3
+55,No,Normal,141/85,8000,Male,70,Engineer,203,90,8,3.0,3,Restless Leg Syndrome,7.8,7.0,No,5
+41,No,Normal,110/70,6800,Male,69,Engineer,204,47,6,3.0,4,None,6.9,8.0,No,4
+22,No,Normal,117/74,6800,Male,68,Engineer,205,75,8,2.0,3,None,7.6,8.0,No,3
+51,No,Normal,111/76,8000,Male,70,Engineer,206,90,8,2.0,4,None,7.7,8.0,No,3
+23,Yes,Overweight,120/87,8000,Male,70,Engineer,207,90,8,2.0,4,Insomnia,7.7,5.0,No,5
+39,No,Normal,110/66,8000,Male,70,Engineer,208,90,8,4.0,5,CRSD,7.7,4.0,No,5
+28,No,Normal,113/72,8000,Male,70,Engineer,209,90,8,2.0,2,None,7.7,8.0,No,4
+33,No,Normal,130/85,8000,Male,70,Engineer,210,90,8,2.0,4,Parasomnia,7.8,5.0,Yes,8
+50,No,Normal,130/85,8000,Male,70,Engineer,211,90,8,3.0,5,Sleep Apnea,3.0,5.0,No,9
+26,No,Normal,110/67,8000,Male,70,Engineer,212,90,8,5.0,1,CRSD,7.8,4.0,No,5
+23,No,Normal,130/85,8000,Male,70,Engineer,213,90,8,3.0,2,Parasomnia,7.8,4.0,Yes,8
+33,Yes,Overweight,117/85,8000,Male,70,Engineer,214,90,8,2.0,4,Insomnia,7.8,4.0,No,5
+46,No,Normal,116/79,8000,Male,70,Engineer,215,90,8,2.0,0,None,7.8,8.0,No,3
+20,No,Normal,119/71,8000,Male,70,Student,216,90,8,3.0,1,None,7.8,8.0,No,3
+37,No,Normal,142/89,8000,Male,70,Engineer,217,90,8,3.0,1,Restless Leg Syndrome,7.8,7.0,No,5
+53,No,Normal,111/71,8000,Male,70,Engineer,218,90,8,2.0,5,None,7.8,7.0,No,3
+36,No,Normal,130/85,8000,Male,70,Engineer,219,90,8,2.0,1,Parasomnia,7.8,4.0,Yes,8
+43,Yes,Overweight,118/88,6000,Male,72,Salesperson,220,45,6,3.0,2,Insomnia,6.5,5.0,No,7
+20,No,Overweight,135/90,6000,Female,65,Student,221,45,7,3.0,4,Sleep Apnea,4.0,4.0,No,8
+36,No,Overweight,130/85,6000,Male,72,Salesperson,222,45,6,3.0,4,Sleep Apnea,3.0,5.0,No,9
+37,No,Overweight,130/85,6000,Male,72,Salesperson,223,45,6,3.0,0,Parasomnia,6.3,5.0,Yes,8
+49,No,Overweight,130/85,6000,Male,72,Salesperson,224,45,6,2.0,5,Sleep Apnea,4.0,4.0,No,9
+24,No,Normal,113/78,6000,Female,65,Teacher,225,45,7,3.0,0,None,6.6,7.0,No,4
+58,No,Overweight,130/85,6000,Male,72,Salesperson,226,45,6,3.0,1,Sleep Apnea,4.0,5.0,No,8
+50,No,Overweight,135/90,6000,Female,65,Teacher,227,45,7,3.0,0,Parasomnia,6.6,4.0,Yes,8
+57,No,Normal,143/82,6000,Male,72,Salesperson,228,45,6,3.0,2,Restless Leg Syndrome,6.3,7.0,No,7
+56,No,Normal,119/76,6000,Female,65,Teacher,229,45,7,2.0,4,None,6.6,8.0,No,4
+35,Yes,Overweight,122/88,6000,Male,72,Salesperson,230,45,6,2.0,1,Insomnia,6.3,4.0,No,7
+57,No,Overweight,135/90,6000,Female,65,Teacher,231,45,7,3.0,0,Parasomnia,6.6,5.0,Yes,8
+18,Yes,Overweight,121/87,6000,Male,72,Student,232,45,6,2.0,5,Insomnia,6.3,5.0,No,7
+28,No,Overweight,135/90,6000,Female,65,Teacher,233,45,7,2.0,2,Sleep Apnea,4.0,5.0,No,9
+45,No,Normal,111/72,6000,Male,72,Salesperson,234,45,6,2.0,2,None,6.3,8.0,No,4
+42,Yes,Overweight,118/85,6000,Female,65,Teacher,235,45,7,2.0,0,Insomnia,6.6,4.0,No,4
+40,No,Overweight,130/85,6000,Male,72,Salesperson,236,45,6,3.0,4,Sleep Apnea,3.0,5.0,No,8
+48,No,Normal,110/76,6000,Male,72,Salesperson,237,45,6,2.0,0,None,6.4,8.0,No,4
+47,No,Overweight,135/90,6000,Female,65,Teacher,238,45,7,2.0,1,Sleep Apnea,3.0,4.0,No,7
+59,Yes,Overweight,118/93,6000,Male,72,Salesperson,239,45,6,3.0,0,Insomnia,6.3,4.0,No,7
+52,No,Overweight,130/85,6000,Male,72,Salesperson,240,45,6,2.0,2,Parasomnia,6.4,5.0,Yes,8
+24,No,Overweight,111/64,6000,Female,65,Teacher,241,45,7,5.0,0,CRSD,6.5,4.0,No,4
+33,No,Normal,118/74,6000,Male,72,Salesperson,242,45,6,2.0,4,None,6.3,8.0,No,4
+43,No,Normal,142/87,6000,Male,72,Salesperson,243,45,6,3.0,5,Restless Leg Syndrome,6.4,6.0,No,7
+19,No,Normal,119/75,6000,Female,65,Student,244,45,7,3.0,3,None,6.5,7.0,No,4
+18,No,Overweight,119/66,6000,Male,72,Student,245,45,6,5.0,0,CRSD,6.3,3.0,No,7
+29,No,Normal,118/71,6000,Female,65,Teacher,246,45,7,2.0,4,None,6.5,7.0,No,3
+22,Yes,Overweight,117/89,6000,Male,72,Salesperson,247,45,6,2.0,4,Insomnia,6.3,5.0,No,7
+54,No,Normal,144/86,5000,Male,78,Engineer,248,45,7,3.0,5,Restless Leg Syndrome,6.8,7.0,No,7
+49,No,Normal,141/84,6000,Male,72,Salesperson,249,45,6,3.0,2,Restless Leg Syndrome,6.4,7.0,No,7
+26,No,Normal,112/74,6000,Male,72,Salesperson,250,45,6,2.0,4,None,6.5,8.0,No,4
+58,No,Normal,148/82,6000,Female,65,Teacher,251,30,7,3.0,4,Restless Leg Syndrome,6.8,7.0,No,6
+52,Yes,Overweight,122/91,6000,Female,65,Teacher,252,30,7,3.0,4,Insomnia,6.8,4.0,No,6
+36,No,Overweight,135/90,6000,Female,65,Teacher,253,45,7,3.0,4,Parasomnia,6.5,4.0,Yes,8
+33,No,Overweight,114/65,6000,Female,65,Teacher,254,45,7,5.0,1,CRSD,6.5,4.0,No,4
+20,Yes,Overweight,123/90,6000,Female,65,Student,255,45,7,3.0,1,Insomnia,6.5,5.0,No,4
+37,No,Overweight,113/60,6000,Female,65,Teacher,256,45,7,4.0,2,CRSD,6.5,3.0,No,4
+41,No,Overweight,119/67,6000,Female,65,Teacher,257,45,7,5.0,0,CRSD,6.6,3.0,No,4
+50,No,Normal,118/79,6000,Female,65,Teacher,258,45,7,2.0,4,None,6.6,7.0,No,3
+41,No,Normal,146/84,6000,Female,65,Teacher,259,45,7,3.0,5,Restless Leg Syndrome,6.6,7.0,No,4
+28,No,Normal,142/83,6000,Female,65,Teacher,260,45,7,3.0,0,Restless Leg Syndrome,6.6,7.0,No,4
+25,No,Normal,140/86,6000,Female,65,Teacher,261,45,7,2.0,5,Restless Leg Syndrome,6.6,6.0,No,4
+53,No,Overweight,135/90,6000,Female,65,Teacher,262,45,7,3.0,0,Parasomnia,6.6,4.0,Yes,8
+55,No,Normal,114/71,6000,Female,65,Teacher,263,45,7,3.0,2,None,6.6,8.0,No,4
+57,Yes,Overweight,115/94,5500,Female,75,Manager,264,55,7,2.0,4,Insomnia,6.9,4.0,No,5
+37,No,Obese,142/92,3500,Male,83,Doctor,265,65,7,2.0,4,Sleep Apnea,3.0,5.0,No,9
+52,No,Normal,116/73,10000,Female,75,Nurse,266,90,6,2.0,3,None,5.9,8.0,No,4
+42,No,Normal,112/71,3500,Male,83,Doctor,267,65,7,2.0,5,None,7.3,7.0,No,3
+52,Yes,Overweight,116/94,10000,Female,75,Nurse,268,90,6,2.0,0,Insomnia,6.2,4.0,No,8
+42,No,Overweight,140/95,10000,Female,75,Nurse,269,90,6,3.0,0,Sleep Apnea,3.0,4.0,No,7
+46,No,Overweight,140/95,10000,Female,75,Nurse,270,90,6,3.0,1,Sleep Apnea,4.0,4.0,No,8
+35,No,Normal,110/73,10000,Female,75,Nurse,271,90,6,2.0,3,None,6.1,7.0,No,4
+35,No,Normal,116/79,10000,Female,75,Nurse,272,90,6,2.0,1,None,6.1,7.0,No,4
+19,No,Overweight,140/95,10000,Female,75,Student,273,90,6,2.0,1,Parasomnia,6.1,4.0,Yes,7
+52,No,Overweight,112/64,10000,Female,75,Nurse,274,90,6,4.0,1,CRSD,6.2,3.0,No,8
+33,No,Normal,119/78,10000,Female,75,Nurse,275,90,6,3.0,5,None,6.2,7.0,No,4
+58,Yes,Overweight,120/85,10000,Female,75,Nurse,276,90,6,2.0,5,Insomnia,6.2,5.0,No,8
+53,No,Normal,112/78,3700,Male,86,Doctor,277,85,9,3.0,2,None,8.1,7.0,No,3
+50,No,Normal,140/83,3700,Male,86,Doctor,278,85,9,3.0,2,Restless Leg Syndrome,8.1,6.0,No,3
+21,No,Overweight,140/95,10000,Female,75,Student,279,90,6,2.0,1,Sleep Apnea,4.0,4.0,No,8
+50,No,Normal,114/69,5000,Female,65,Engineer,280,30,9,4.0,3,CRSD,8.3,4.0,No,3
+31,No,Normal,117/78,10000,Female,75,Nurse,281,90,6,2.0,0,None,6.0,8.0,No,4
+38,No,Normal,115/78,10000,Female,75,Nurse,282,90,6,3.0,5,None,6.1,7.0,No,4
+37,No,Overweight,112/62,10000,Female,75,Nurse,283,90,6,5.0,3,CRSD,6.0,3.0,No,8
+25,No,Normal,148/87,10000,Female,75,Nurse,284,90,6,2.0,4,Restless Leg Syndrome,6.0,6.0,No,8
+24,No,Normal,110/76,10000,Female,75,Nurse,285,90,6,3.0,5,None,6.0,8.0,No,3
+20,No,Normal,111/75,10000,Female,75,Student,286,90,6,2.0,5,None,6.0,8.0,No,3
+34,Yes,Overweight,121/92,10000,Female,75,Nurse,287,90,6,2.0,2,Insomnia,6.0,5.0,No,8
+50,No,Overweight,140/95,10000,Female,75,Nurse,288,90,6,3.0,0,Sleep Apnea,3.0,5.0,No,8
+29,No,Normal,141/84,10000,Female,75,Nurse,289,90,6,3.0,0,Restless Leg Syndrome,6.0,6.0,No,8
+39,No,Overweight,113/61,10000,Female,75,Nurse,290,90,6,4.0,4,CRSD,6.1,4.0,No,8
+39,Yes,Overweight,118/93,10000,Female,75,Nurse,291,90,6,3.0,4,Insomnia,6.0,4.0,No,8
+47,No,Normal,118/71,10000,Female,75,Nurse,292,90,6,2.0,5,None,6.1,8.0,No,3
+55,No,Overweight,140/95,10000,Female,75,Nurse,293,90,6,3.0,1,Parasomnia,6.1,4.0,Yes,7
+55,No,Normal,112/78,10000,Female,75,Nurse,294,90,6,2.0,2,None,6.0,8.0,No,4
+25,No,Overweight,115/67,10000,Female,75,Nurse,295,90,6,5.0,2,CRSD,6.1,3.0,No,8
+44,Yes,Overweight,121/94,10000,Female,75,Nurse,296,90,6,2.0,5,Insomnia,6.0,5.0,No,8
+44,No,Normal,143/85,10000,Female,75,Nurse,297,90,6,2.0,3,Restless Leg Syndrome,6.1,7.0,No,8
+51,No,Normal,143/82,10000,Female,75,Nurse,298,90,6,2.0,1,Restless Leg Syndrome,6.1,6.0,No,8
+38,No,Normal,110/76,5000,Female,65,Engineer,299,30,9,2.0,5,None,8.5,8.0,No,3
+47,No,Normal,112/74,5000,Female,65,Engineer,300,30,9,2.0,1,None,8.5,7.0,No,4
+50,No,Normal,116/77,5000,Female,65,Engineer,301,30,9,3.0,1,None,8.5,8.0,No,4
+45,No,Normal,112/72,5000,Female,65,Engineer,302,30,9,3.0,1,None,8.5,7.0,No,3
+50,No,Normal,115/74,6000,Female,72,Nurse,303,55,7,3.0,5,None,7.1,7.0,No,3
+22,No,Overweight,140/95,10000,Female,75,Nurse,304,90,6,2.0,2,Sleep Apnea,4.0,4.0,No,9
+36,No,Normal,117/74,10000,Female,75,Nurse,305,90,6,3.0,2,None,6.1,8.0,No,3
+21,No,Normal,148/81,10000,Female,75,Student,306,90,6,3.0,1,Restless Leg Syndrome,6.1,6.0,No,8
+52,No,Normal,148/80,6000,Female,72,Accountant,307,45,7,2.0,3,Restless Leg Syndrome,6.5,7.0,No,7
+34,No,Overweight,115/60,6000,Female,72,Accountant,308,45,7,4.0,0,CRSD,6.5,4.0,No,7
+45,No,Overweight,117/63,6000,Female,72,Accountant,309,45,7,5.0,5,CRSD,6.6,4.0,No,7
+47,Yes,Overweight,122/89,6000,Female,72,Accountant,310,45,7,2.0,0,Insomnia,6.6,4.0,No,7
+46,Yes,Overweight,121/85,6000,Female,72,Accountant,311,45,7,2.0,3,Insomnia,6.6,5.0,No,7
+23,No,Normal,119/75,6000,Female,72,Accountant,312,45,7,3.0,5,None,6.6,8.0,No,4
+52,No,Normal,110/75,5000,Female,65,Engineer,313,30,9,2.0,1,None,8.4,7.0,No,3
+58,No,Normal,112/60,5000,Female,65,Engineer,314,30,9,4.0,2,CRSD,8.4,3.0,No,3
+54,No,Normal,125/80,5000,Female,65,Engineer,315,30,9,2.0,0,Parasomnia,8.4,5.0,Yes,8
+41,No,Normal,147/81,5000,Female,65,Engineer,316,30,9,3.0,4,Restless Leg Syndrome,8.3,7.0,No,3
+46,No,Normal,125/80,5000,Female,65,Engineer,317,30,9,2.0,4,Parasomnia,8.5,5.0,Yes,7
+48,No,Normal,113/74,5000,Female,65,Engineer,318,30,9,3.0,3,None,8.5,8.0,No,4
+52,No,Normal,117/67,5000,Female,65,Engineer,319,30,9,4.0,1,CRSD,8.4,4.0,No,3
+50,No,Normal,125/80,5000,Female,65,Engineer,320,30,9,2.0,0,Parasomnia,8.4,4.0,Yes,8
+38,No,Normal,116/65,5000,Female,65,Engineer,321,30,9,4.0,1,CRSD,8.5,3.0,No,3
+49,Yes,Overweight,122/92,5000,Female,65,Engineer,322,30,9,3.0,0,Insomnia,8.4,5.0,No,3
+40,No,Normal,110/67,5000,Female,65,Engineer,323,30,9,5.0,3,CRSD,8.4,3.0,No,3
+50,No,Normal,117/72,5000,Female,65,Engineer,324,30,9,3.0,3,None,8.5,7.0,No,3
+20,No,Normal,125/80,5000,Female,65,Student,325,30,9,2.0,4,Parasomnia,8.3,4.0,Yes,7
+35,No,Normal,125/80,5000,Female,65,Engineer,326,30,9,2.0,1,Parasomnia,8.5,5.0,Yes,8
+42,No,Normal,110/72,5000,Female,65,Engineer,327,30,9,2.0,5,None,8.3,7.0,No,4
+59,No,Normal,125/80,5000,Female,65,Engineer,328,30,9,2.0,4,Parasomnia,8.5,5.0,Yes,8
+48,No,Normal,125/80,5000,Female,65,Engineer,329,30,9,2.0,1,Sleep Apnea,3.0,4.0,No,7
+20,No,Normal,118/78,5000,Female,65,Student,330,30,9,2.0,4,None,8.5,8.0,No,4
+57,No,Normal,125/80,5000,Female,65,Engineer,331,30,9,2.0,5,Parasomnia,8.5,4.0,Yes,8
+41,No,Normal,125/80,5000,Female,65,Engineer,332,30,9,2.0,2,Sleep Apnea,3.0,5.0,No,9
+49,Yes,Overweight,115/94,5000,Female,65,Engineer,333,30,9,3.0,2,Insomnia,8.4,4.0,No,3
+39,No,Normal,125/80,5000,Female,65,Engineer,334,30,9,3.0,2,Parasomnia,8.4,5.0,Yes,7
+40,No,Normal,125/80,5000,Female,65,Engineer,335,30,9,3.0,2,Sleep Apnea,3.0,5.0,No,7
+19,No,Normal,144/83,5000,Female,65,Student,336,30,9,3.0,0,Restless Leg Syndrome,8.4,7.0,No,3
+44,No,Normal,146/89,5000,Female,65,Engineer,337,30,9,3.0,2,Restless Leg Syndrome,8.4,6.0,No,3
+59,No,Normal,125/80,5000,Female,65,Engineer,338,30,9,3.0,5,Parasomnia,8.4,4.0,Yes,8
+19,No,Normal,125/80,5000,Female,65,Student,339,30,9,2.0,3,Sleep Apnea,4.0,5.0,No,9
+43,No,Normal,113/78,5000,Female,72,Nurse,340,75,9,3.0,3,None,8.1,7.0,No,4
+34,Yes,Overweight,121/86,5000,Female,72,Nurse,341,75,9,2.0,0,Insomnia,8.1,4.0,No,4
+57,No,Normal Weight,115/60,10000,Female,65,Doctor,342,90,9,4.0,2,CRSD,8.2,4.0,No,3
+50,No,Normal,116/75,10000,Female,65,Doctor,343,90,9,2.0,2,None,8.2,7.0,No,3
+26,No,Normal,114/76,7000,Female,68,Nurse,344,75,9,3.0,2,None,8.1,8.0,No,3
+60,No,Overweight,140/95,7000,Female,68,Nurse,345,75,9,3.0,4,Parasomnia,8.2,5.0,Yes,8
+56,Yes,Overweight,119/90,7000,Female,68,Nurse,346,75,9,3.0,1,Insomnia,8.2,5.0,No,3
+46,No,Overweight,115/60,7000,Female,68,Nurse,347,75,9,4.0,4,CRSD,8.2,3.0,No,3
+59,No,Overweight,140/95,7000,Female,68,Nurse,348,75,9,2.0,1,Sleep Apnea,4.0,5.0,No,8
+43,No,Overweight,140/95,7000,Female,68,Nurse,349,75,9,3.0,2,Sleep Apnea,3.0,5.0,No,9
+52,No,Normal,110/79,7000,Female,68,Nurse,350,75,9,2.0,2,None,8.1,7.0,No,3
+42,No,Normal,119/71,7000,Female,68,Nurse,351,75,9,3.0,4,None,8.1,7.0,No,3
+41,No,Normal,119/72,7000,Female,68,Nurse,352,75,9,3.0,4,None,8.1,7.0,No,4
+30,No,Overweight,116/61,7000,Female,68,Nurse,353,75,9,4.0,1,CRSD,8.0,3.0,No,3
+24,No,Overweight,114/62,7000,Female,68,Nurse,354,75,9,5.0,3,CRSD,8.0,4.0,No,3
+53,No,Overweight,140/95,7000,Female,68,Nurse,355,75,9,3.0,1,Parasomnia,8.0,5.0,Yes,7
+37,No,Normal,145/89,7000,Female,68,Nurse,356,75,9,3.0,4,Restless Leg Syndrome,8.0,6.0,No,3
+18,No,Normal,148/83,7000,Female,68,Student,357,75,9,2.0,5,Restless Leg Syndrome,8.0,6.0,No,3
+25,No,Overweight,110/61,7000,Female,68,Nurse,358,75,9,5.0,4,CRSD,8.0,3.0,No,3
+33,No,Overweight,140/95,7000,Female,68,Nurse,359,75,9,3.0,5,Parasomnia,8.0,4.0,Yes,7
+31,No,Overweight,140/95,7000,Female,68,Nurse,360,75,9,2.0,0,Parasomnia,8.1,4.0,Yes,8
+29,No,Overweight,140/95,7000,Female,68,Nurse,361,75,9,3.0,4,Sleep Apnea,4.0,4.0,No,7
+40,No,Normal,116/72,7000,Female,68,Nurse,362,75,9,3.0,0,None,8.2,7.0,No,3
+32,No,Normal,114/78,7000,Female,68,Nurse,363,75,9,2.0,3,None,8.2,7.0,No,4
+45,No,Normal,114/70,7000,Female,68,Nurse,364,75,9,2.0,1,None,8.2,7.0,No,4
+51,No,Normal,116/76,7000,Female,68,Nurse,365,75,9,2.0,5,None,8.0,7.0,No,3
+19,No,Normal,117/75,7000,Female,68,Student,366,75,9,3.0,1,None,8.0,7.0,No,4
+49,No,Overweight,140/95,7000,Female,68,Nurse,367,75,9,3.0,0,Sleep Apnea,4.0,5.0,No,9
+40,No,Overweight,116/69,7000,Female,68,Nurse,368,75,9,5.0,5,CRSD,8.0,3.0,No,3
+39,No,Overweight,140/95,7000,Female,68,Nurse,369,75,9,2.0,1,Sleep Apnea,4.0,4.0,No,9
+42,No,Normal,144/89,7000,Female,68,Nurse,370,75,9,3.0,4,Restless Leg Syndrome,8.1,6.0,No,3
+39,No,Normal,147/85,7000,Female,68,Nurse,371,75,9,3.0,2,Restless Leg Syndrome,8.0,7.0,No,3
+39,No,Overweight,140/95,7000,Female,68,Nurse,372,75,9,3.0,0,Sleep Apnea,3.0,5.0,No,7
+59,No,Normal,115/70,7000,Female,68,Nurse,373,75,9,2.0,1,None,8.1,7.0,No,4
+23,No,Normal,112/78,7000,Female,68,Nurse,374,75,9,3.0,0,None,8.1,7.0,No,4
